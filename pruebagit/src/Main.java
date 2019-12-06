@@ -1,24 +1,17 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/**
- *
- * @author Dell
- */
 public class Main {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
-        
-        
+
         String p = "n";
-        System.out.println("dddd");
+        if (p.equals("n")) {
+            saludar(p);
+        }
+
+    }
+
+    private static void saludar(String s) {
+        System.out.println(" Hola mundo " + " " + s);
     }
 
 }
