@@ -14,13 +14,7 @@ public class Main {
         System.out.println(" Hola mundo " + " " + s);
         System.out.println(" TE AMO " + " " + s);
         System.out.println(" TE AMO " + " " + s);
-        System.out.println(" TE AMO " + " " + s);
-        System.out.println(" TE AMO " + " " + s);
-        System.out.println(" TE AMO " + " " + s);
-        System.out.println(" TE AMO " + " " + s);
-        System.out.println(" TE AMO " + " " + s);
-        System.out.println(" TE AMO " + " " + s);
-        System.out.println(" TE AMO " + " " + s);
+        
         
         
     }
