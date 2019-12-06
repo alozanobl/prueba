@@ -12,7 +12,7 @@ public class Main {
 
     private static void saludar(String s) {
         System.out.println(" Hola mundo " + " " + s);
-sfñsdfjdjfkjdklfjldjflñjdkk
+        System.out.println("el otro huuuuuu");
     }
 
 }
