@@ -11,11 +11,6 @@ public class Main {
     }
     private static void saludar(String s) {
         System.out.println(" TE AMO " + " " + s);
-        System.out.println(" TE AMO " + " " + s);
-
-        System.out.println(" TE AMO3 " + " " + s);
-
-        
     }
 
 }
