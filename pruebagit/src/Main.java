@@ -14,6 +14,7 @@ public class Main {
         System.out.println(" TE AMO " + " " + s);
 
         System.out.println(" TE AMO3 " + " " + s);
+        System.out.println(" TE AMO4 " + " " + s);
 
         
     }
